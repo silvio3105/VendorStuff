@@ -1,4 +1,6 @@
 
 # VENDOR STUFF
 
-This repo contains vendor stuff(eg., stuff from STM for STM32 MCUs.). I've only collected stuff into one repo so I can use it without configuration tools(eg., STM32CubeMX).
+This repo is collection of vendor MCU related stuff(eg., drivers from STM for STM32).
+I've only collected stuff into one repo so I can use it without configuration tools(eg., STM32CubeMX).
+Unnecessary files are removed.
